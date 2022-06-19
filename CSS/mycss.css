@@ -1,0 +1,158 @@
+
+    .alvi1 {
+        margin: auto;
+        font-size:40px;
+        color:#009900;
+        font-weight:bold;
+        text-align: center;
+            }
+    .alvi2 {
+        text-align: center;
+        font-size:17px;
+        margin-left:10px;
+        margin-bottom:15px;
+            }
+    body {
+    
+        background-color: yellow;
+        
+            }
+
+    .menu {
+        position: sticky;
+        top: 0;
+        background-color: #009900;
+        padding:10px 0px 10px 0px;
+        color:white;
+        margin: 0 auto;
+        overflow: hidden;
+        width: 60%
+            }
+    .menu a {
+        float: left;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 20px;
+            }
+    .menu-log
+    
+            {
+
+                
+       margin: auto;
+       
+        background-color:#ff8000;
+        
+        text-align: center;
+        
+        width: 60%
+        
+            }
+
+
+
+           
+
+
+
+
+
+            input[type=email], select, textarea {
+                width: 30%;
+                padding: 10px;
+               
+               
+            }
+            input[type=text], select, textarea {
+                width: 30%;
+                padding: 10px;
+               
+                
+            }
+
+
+
+
+            input[type=Confirm ], select, textarea {
+                width: 30%;
+                padding: 10px;
+               
+                
+            }
+
+            input[type=number], select, textarea {
+                width: 30%;
+                padding: 10px;
+               
+                
+            }
+            input[type=Country], select, textarea {
+                width: 30%;
+                padding: 10px;
+               
+                
+            }
+            
+
+
+
+
+
+
+            input[type=text] {
+                background-color: bisque;
+                border: 5px solid rgb(76, 0, 255);
+                border-radius: 7px;
+
+                
+              }
+              input[type=password], select, textarea {
+                width: 30%;
+                padding: 10px;
+              
+                }
+
+              input[type=password]
+               {
+                background-color: bisque;
+                border: 5px solid 	#bf00ff;
+                border-radius: 7px;
+              }
+                label 
+                {
+                color:blue;}
+
+                ::placeholder {
+                    color: rgb(231, 13, 13);}
+
+                    input[type=submit]
+                    {
+                        
+                        background-color: #ff0080;
+                        color: rgb(37, 17, 218);
+                        border: 6px solid rgb(0, 255, 85);
+                        border-radius: 7px;
+                      
+                        cursor: pointer;
+                        width: 30%
+                        
+                       
+                    }
+                   
+                
+    footer {
+        margin: auto;
+       
+        bottom: 0px;
+        background-color: #009900;
+        color: rgb(214, 8, 8);
+        position: center;
+        
+        text-align:center;
+        font-size:30px;
+        font-weight:bold;
+        width: 60%
+        }
+    
